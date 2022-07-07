@@ -3,14 +3,15 @@ Terms of reference for a simple Blockchain application in a voting system.
 
 TERMS OF REFERENCE
 
-CASE: VOTING PLATFORM.
+CASE = VOTING PLATFORM.
 
      
 block-chain e-voting
 
-       Blockchain happened, a revolutionary technology that preaches decentralization in a world full of centralized authorities that are placed into authority in most cases, through electoral processes often carried out via offline voting system. In 2014 the topic of Block-chain technology as a stand-alone-tech and its applications separate from Bitcoin which was implemented earlier in 2008, were being addressed by concerned minds. What then is Block-chain and what is voting, in this case E-voting?
-       Blockchain technology is a method of data organization and decision-making that enables real time data synchronization and integrity by grouping all the data about existing transactions or other records into blocks, each of which is cryptographically linked to the previous one. "Properties of Blockchain include; immutability, integrity, trustlesness, reliable reconciliation”.
-    “In the simplest case, voting can be defined as a way of making a collective decision, which implies the formation of a common opinion based on the counting of votes of members of a particular group”. E-voting (electronic voting) is the implementation of the usual voting process via an online method by use of electronic devices, structures and applications that can access the internet. 
+  Blockchain happened, a revolutionary technology that preaches decentralization in a world full of centralized authorities that are placed into authority in most cases, through electoral processes often carried out via offline voting system.
+ In 2014 the topic of Block-chain technology as a stand-alone-tech and its applications separate from Bitcoin which was implemented earlier in 2008, were being addressed by concerned minds. What then is Block-chain and what is voting, in this case E-voting?
+Blockchain technology is a method of data organization and decision-making that enables real time data synchronization and integrity by grouping all the data about existing transactions or other records into blocks, each of which is cryptographically linked to the previous one. "Properties of Blockchain include; immutability, integrity, trustlesness, reliable reconciliation”.
+“In the simplest case, voting can be defined as a way of making a collective decision, which implies the formation of a common opinion based on the counting of votes of members of a particular group”. E-voting (electronic voting) is the implementation of the usual voting process via an online method by use of electronic devices, structures and applications that can access the internet. 
                                          
 OVERVIEW AND PURPOSE OF THE SYSTEM / PRODUCT
 
