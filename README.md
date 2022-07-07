@@ -15,7 +15,10 @@ Blockchain technology is a method of data organization and decision-making that 
                                          
 OVERVIEW AND PURPOSE OF THE SYSTEM / PRODUCT
 
-     More often than none traditional offline voting systems and even the traditional online electronic voting (E-Voting) poses some basic challenges, advantages and disadvantages however , in this context ways will be considered on how to implement an E-voting platforms using blockchain technology ( using a common programming language) as well as ways of mitigating the challenges facing traditional E-voting using blockchain technology.
+  More often than none traditional offline voting systems and even the traditional online electronic voting (E-Voting) poses some basic challenges, 
+advantages and disadvantages however , in this context ways will be considered on how to implement an
+ E-voting platforms using blockchain technology ( using a common programming language) as well as ways of mitigating the challenges facing traditional
+ E-voting using blockchain technology.
                                            
 SYSTEM CONTENT (SYSTEM BOUNDARIES).
 
